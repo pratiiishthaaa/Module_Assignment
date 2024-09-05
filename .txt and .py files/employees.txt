@@ -1,0 +1,5 @@
+Name, Age, Salary
+Pratishtha, 24, 50000
+Meenu, 27, 60000
+Tanmay, 25, 70000
+Sushil, 25, 80000
